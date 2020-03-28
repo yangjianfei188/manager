@@ -33,7 +33,7 @@
             </template>
             <!-- <template slot="title">分组一</template> -->
             <el-menu-item index="users">
-              <i class="el-icon-location"></i>
+              <i class="el-icon-menu"></i>
               <span>用户列表</span>
             </el-menu-item>
           </el-submenu>
@@ -45,11 +45,11 @@
             </template>
             <!-- <template slot="title">分组一</template> -->
             <el-menu-item index="1-1">
-              <i class="el-icon-location"></i>
+              <i class="el-icon-menu"></i>
               <span>角色列表</span>
             </el-menu-item>
             <el-menu-item index="1-2">
-              <i class="el-icon-location"></i>
+              <i class="el-icon-menu"></i>
               <span>权限列表</span>
             </el-menu-item>
           </el-submenu>
@@ -61,15 +61,15 @@
             </template>
             <!-- <template slot="title">分组一</template> -->
             <el-menu-item index="1-1">
-              <i class="el-icon-location"></i>
+              <i class="el-icon-menu"></i>
               <span>商品列表</span>
             </el-menu-item>
             <el-menu-item index="1-2">
-              <i class="el-icon-location"></i>
+              <i class="el-icon-menu"></i>
               <span>分类参数</span>
             </el-menu-item>
             <el-menu-item index="1-3">
-              <i class="el-icon-location"></i>
+              <i class="el-icon-menu"></i>
               <span>商品分类</span>
             </el-menu-item>
           </el-submenu>
@@ -81,7 +81,7 @@
             </template>
             <!-- <template slot="title">分组一</template> -->
             <el-menu-item index="1-1">
-              <i class="el-icon-location"></i>
+              <i class="el-icon-menu"></i>
               <span>订单列表</span>
             </el-menu-item>
           </el-submenu>
@@ -92,8 +92,8 @@
               <span>数据统计</span>
             </template>
             <!-- <template slot="title">分组一</template> -->
-            <el-menu-item index="1-1">
-              <i class="el-icon-location"></i>
+            <el-menu-item index="reports">
+              <i class="el-icon-menu"></i>
               <span>数据报表</span>
             </el-menu-item>
           </el-submenu>
